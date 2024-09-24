@@ -1,5 +1,7 @@
 # SingleRowCalendar
 With this library, you aren't attached to library built-in UI. You can create really beautiful and customizable UI and use selection features without hands getting dirty with RecyclerView and SelectionTracker.
+[![](https://jitpack.io/v/bhagyae5308/SingleRowCalendar.svg)](https://jitpack.io/#bhagyae5308/SingleRowCalendar)
+
 
 [![Download](https://api.bintray.com/packages/michalsvec/android-libraries/single-row-calednar/images/download.svg) ](https://bintray.com/michalsvec/android-libraries/single-row-calednar/_latestVersion)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miso01/SingleRowCalendar/blob/master/LICENSE)
